@@ -1,0 +1,3 @@
+= Xataface Modules Index
+
+This index is used by the Xataface CLI tool for managing auto-install and update of modules.

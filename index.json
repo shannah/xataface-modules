@@ -11,7 +11,7 @@
             "name" : "calendar",
             "zipUrl" : "https://github.com/shannah/xataface-module-calendar/archive/master.zip",
             "latestVersion" : 1,
-            "description" : "CKeditor widget",
+            "description" : "Adds a calendar view",
             "repoUrl" : "https://github.com/shannah/xataface-module-calendar"
         }
     ]

@@ -5,14 +5,19 @@
             "zipUrl" : "https://github.com/shannah/xataface-module-ckeditor/archive/master.zip",
             "latestVersion" : 4166,
             "description" : "CKeditor widget",
-            "repoUrl" : "https://github.com/shannah/xataface-module-ckeditor"
+            "repoUrl" : "https://github.com/shannah/xataface-module-ckeditor",
+            "author" : "Steve Hannah",
+            "license" : "GPL"
         },
         {
             "name" : "calendar",
             "zipUrl" : "https://github.com/shannah/xataface-module-calendar/archive/master.zip",
             "latestVersion" : 1,
             "description" : "Adds a calendar view",
-            "repoUrl" : "https://github.com/shannah/xataface-module-calendar"
+            "repoUrl" : "https://github.com/shannah/xataface-module-calendar",
+            "author" : "Steve Hannah",
+            "license" : "GPL"
         }
+        
     ]
 }

@@ -3,14 +3,14 @@
         {
             "name" : "ckeditor",
             "zipUrl" : "https://github.com/shannah/xataface-module-ckeditor/archive/master.zip",
-            "latestVersion" : "4166",
+            "latestVersion" : 4166,
             "description" : "CKeditor widget",
             "repoUrl" : "https://github.com/shannah/xataface-module-ckeditor"
         },
         {
             "name" : "calendar",
             "zipUrl" : "https://github.com/shannah/xataface-module-calendar/archive/master.zip",
-            "latestVersion" : "1",
+            "latestVersion" : 1,
             "description" : "CKeditor widget",
             "repoUrl" : "https://github.com/shannah/xataface-module-calendar"
         }

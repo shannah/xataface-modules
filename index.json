@@ -17,6 +17,15 @@
             "repoUrl" : "https://github.com/shannah/xataface-module-calendar",
             "author" : "Steve Hannah",
             "license" : "GPL"
+        },
+        {
+            "name" : "depselect",
+            "zipUrl" : "https://github.com/shannah/xataface-module-depselect/archive/master.zip",
+            "latestVersion" : 1,
+            "description" : "Adds a dependent select widget",
+            "repoUrl" : "https://github.com/shannah/xataface-module-depselect",
+            "author" : "Steve Hannah",
+            "license" : "GPL"
         }
         
     ]

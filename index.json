@@ -26,6 +26,15 @@
             "repoUrl" : "https://github.com/shannah/xataface-module-depselect",
             "author" : "Steve Hannah",
             "license" : "GPL"
+        },
+        {
+            "name" : "stripe",
+            "zipUrl" : "https://github.com/shannah/xataface-module-stripe/archive/master.zip",
+            "latestVersion" : 1,
+            "description" : "Adds stripe subscriptions integration",
+            "repoUrl" : "https://github.com/shannah/xataface-module-stripe",
+            "author" : "Steve Hannah",
+            "license" : "GPL"
         }
         
     ]
